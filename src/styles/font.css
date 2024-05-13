@@ -1,0 +1,35 @@
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/PassionOneRegular.ttf");
+  font-family: "Passion One";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/TitilliumWebExtraLight.ttf");
+  font-family: "Titillium Web";
+  font-weight: 300;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/TitilliumWebRegular.ttf");
+  font-family: "Titillium Web";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/TitilliumWebBold.ttf");
+  font-family: "Titillium Web";
+  font-weight: 700;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/TitilliumWebSemiBold.ttf");
+  font-family: "Titillium Web";
+  font-weight: 600;
+}
